@@ -11,13 +11,13 @@
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [],
-            "stopAtEntry": false,
+            "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": true,
             "MIMode": "lldb",
             "presentation": {
-                
+
             },
             "preLaunchTask": "C/C++: clang++ build active file",
             "postDebugTask": "Exit terminal"

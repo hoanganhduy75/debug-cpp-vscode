@@ -18,12 +18,12 @@
 		"*.dSYM": true,
 		"a.out": true,
 		"tempCodeRunnerFile": true,
-		"tempCodeRunnerFile.cpp": true,
+		"tempCodeRunnerFile.cpp": true
 	},
 	"hide-files.files": [
 		"a.out",
 		"tempCodeRunnerFile",
 		"tempCodeRunnerFile.cpp",
-		"a.out.dSYM",
+		"a.out.dSYM"
 	]
 }
