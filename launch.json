@@ -20,7 +20,7 @@
 
             },
             "preLaunchTask": "C/C++: clang++ build active file",
-            "postDebugTask": "Exit terminal"
+            "postDebugTask": "CleanUp"
         }
     ]
 }

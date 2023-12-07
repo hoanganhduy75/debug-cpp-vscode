@@ -27,9 +27,13 @@
             }
         },
         {
-            "label": "Exit terminal",
+            "label": "CleanUp",
             "type": "shell",
-            "command": "exit"
+            "command": "bash",
+            "args": [
+                "-c",
+                "rm -r ${fileDirname}/${fileBasenameNoExtension} ${fileDirname}/*.dSYM >/dev/null 2>&1 && exit"
+            ]
         }
     ],
     "version": "2.0.0"
