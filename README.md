@@ -1,6 +1,6 @@
-#Debugging C++ with VSCode in External Terminal on macOS#
+#Debugging C++ with VSCode in External Terminal on macOS
 
-This repository provides a solution for debugging C++ code in an external terminal on macOS using Visual Studio Code. The process involves making a simple adjustment to switch the debug console to an external terminal and performing cleanup tasks for unnecessary files, such as files with no extension and .dSYM files.
+##This repository provides a solution for debugging C++ code in an external terminal on macOS using Visual Studio Code. The process involves making a simple adjustment to switch the debug console to an external terminal and performing cleanup tasks for unnecessary files, such as files with no extension and .dSYM files.
 
 Steps:
 
